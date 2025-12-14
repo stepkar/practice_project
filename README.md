@@ -34,6 +34,8 @@
 
 ## Как запустить (Jupyter Notebook)
 
+Реализация в Google colab: https://colab.research.google.com/github/stepkar/practice_project/blob/master/notebooks/solution.ipynb
+
 ### 1) Подготовка окружения
 Рекомендуется Python **3.11** и виртуальное окружение `.venv`.
 
